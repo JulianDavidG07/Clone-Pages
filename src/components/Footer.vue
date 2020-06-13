@@ -1,6 +1,6 @@
 <template>
-    <footer class="bg-gray-100 text-gray-800">            
-        <div class="pt-4 leading-loose">
+    <footer class="bg-gray-100 border-t-2 border-gray-300 text-gray-800">            
+        <div class="pt-10 leading-loose">
             <h1 class="ml-5 text-sm font-bold uppercase ">acerca de</h1>
                 <p class="ml-5">Diversidad e inclusión</p>
                 <p class="ml-5">Accesibilidad</p>

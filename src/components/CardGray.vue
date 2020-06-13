@@ -1,6 +1,6 @@
 <template>
-    <div class="bg-gray-100 mb-12">
-        <div class="text-black px-6 pt-10 pb-3">
+    <div class="bg-gray-100 pb-12">
+        <div class="text-black px-5 pt-10 pb-6">
             <h1 class="font-semibold text-2xl leading-tight">Mantente al día</h1>
         </div>
         

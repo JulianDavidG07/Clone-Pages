@@ -6,10 +6,8 @@
 
    @apply flex-none;
    @apply w-64;
-   @apply mr-3;
    @apply rounded-lg;
    @apply shadow-lg;
-   @apply pb-8;
     
 }
 
